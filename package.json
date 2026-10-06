@@ -1,0 +1,19 @@
+{
+  "name": "assignment-7-identifying-apis",
+  "version": "1.0.0",
+  "description": "API identification and specification design for To-Do List Application",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "keywords": [
+    "REST",
+    "API",
+    "ToDo",
+    "MERN",
+    "Node.js"
+  ],
+  "author": "Utkarsh",
+  "license": "ISC"
+}
